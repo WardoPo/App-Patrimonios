@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1584449785",
+    "project_id": "patrimonios-b2676",
+    "storage_bucket": "patrimonios-b2676.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1584449785:android:56f928d984b8c89f1efa28",
+        "android_client_info": {
+          "package_name": "com.example.patrimonios_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1584449785-53ui7rf3kj3b5c80qvt0kcillqc0jb6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcDmb6Dc-pQM6c-3siUYYBlc2sEn2SD8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1584449785-53ui7rf3kj3b5c80qvt0kcillqc0jb6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1584449785:android:f7b5332b971aacf51efa28",
+        "android_client_info": {
+          "package_name": "com.patrimonios_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1584449785-53ui7rf3kj3b5c80qvt0kcillqc0jb6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcDmb6Dc-pQM6c-3siUYYBlc2sEn2SD8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1584449785-53ui7rf3kj3b5c80qvt0kcillqc0jb6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
